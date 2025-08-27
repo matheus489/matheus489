@@ -27,15 +27,6 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e experiências 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus489&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
-## 🐍 Cobrinha das Contribuições
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/matheus489/matheus489/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
-  
-  <!-- Fallback enquanto a cobrinha é gerada -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matheus489&theme=react-dark&hide_border=true&color=6366F1&line=6366F1&point=FFFFFF&area=true&area_color=6366F1" alt="GitHub Activity Graph" />
-</div>
-
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
@@ -89,9 +80,9 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e experiências 
 
 </div>
 
-## 🎯 Metas para 2024
+## 🎯 Metas para 2025
 
-- [ ] **Contribuir para 10 projetos open source**
+- [ ] **Contribuir para 3 projetos open source**
 - [ ] **Lançar 3 aplicações mobile com React Native**
 - [ ] **Obter certificação AWS Solutions Architect**
 - [ ] **Criar um blog técnico com 50+ artigos**
@@ -119,7 +110,7 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e experiências 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Obrigado+por+visitar+meu+perfil!+%F0%9F%98%8A;Vamos+criar+algo+incr%C3%ADvel+juntos!+%F0%9F%9A%80" alt="Thank you message" />
-</div>
+</div>nha 
 
 <div align="center">
   <sub>⭐ Se este perfil te ajudou, considere dar uma estrela! ⭐</sub>
