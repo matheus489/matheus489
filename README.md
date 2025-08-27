@@ -31,6 +31,9 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e experiências 
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/matheus489/matheus489/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
+  
+  <!-- Fallback enquanto a cobrinha é gerada -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matheus489&theme=react-dark&hide_border=true&color=6366F1&line=6366F1&point=FFFFFF&area=true&area_color=6366F1" alt="GitHub Activity Graph" />
 </div>
 
 ## 🛠️ Tecnologias e Ferramentas

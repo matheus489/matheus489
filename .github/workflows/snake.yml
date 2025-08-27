@@ -10,20 +10,18 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      pages: write
-      id-token: write
     steps:
       - uses: actions/checkout@v4
 
       - name: Generate Snake
-        uses: Platane/snk@master
+        uses: Platane/snk@v3
         with:
           github_user_name: matheus489
-          svg_out_path: dist/github-contribution-grid-snake-dark.svg
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
+      - name: Deploy to output branch
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add dist/
+          git commit -m "Update snake" || exit 0
+          git push origin HEAD:output --force
