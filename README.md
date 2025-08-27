@@ -110,7 +110,7 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e experiências 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Obrigado+por+visitar+meu+perfil!+%F0%9F%98%8A;Vamos+criar+algo+incr%C3%ADvel+juntos!+%F0%9F%9A%80" alt="Thank you message" />
-</div>nha 
+</div>
 
 <div align="center">
   <sub>⭐ Se este perfil te ajudou, considere dar uma estrela! ⭐</sub>
