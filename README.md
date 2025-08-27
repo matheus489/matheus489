@@ -1,12 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+Matheus+%F0%9F%91%8B;Desenvolvedor+Full+Stack+%F0%9F%92%BB;Apaixonado+por+tecnologia+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=200&section=header&text=Olá,%20eu%20sou%20Matheus!%20👋&fontSize=30&fontAlignY=35&animation=twinkling&fontColor=FFFFFF" alt="Header" />
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=matheus489&style=flat-square&color=6366F1" alt="Profile Views" />
 </div>
-
----
 
 ## 🚀 Sobre Mim
 
@@ -19,7 +17,15 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e experiências 
 - 📫 **Como me encontrar:** [LinkedIn](https://linkedin.com/in/seu-perfil) | [Email](mailto:seu-email@exemplo.com)
 - ⚡ **Fato interessante:** Já desenvolvi mais de 50 projetos e nunca parei de aprender! 🚀
 
----
+## 📊 Minhas Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matheus489&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheus489&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakNum=FFFFFF&currStreakLabel=6366F1&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus489&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Top Languages" />
+</div>
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -42,43 +48,29 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e experiências 
 
 ### ⚙️ Backend
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express.js"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="Django"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/fastapi/fastapi.png" alt="FastAPI"/></code>
+<code><img height="32" src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/></code>
+<code><img height="32" src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/></code>
+<code><img height="32" src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/></code>
 
 ### 🗄️ Banco de Dados
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="Redis"/></code>
+<code><img height="32" src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/></code>
 
 ### 🚀 DevOps & Cloud
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google-cloud/google-cloud.png" alt="Google Cloud"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-actions/github-actions.png" alt="GitHub Actions"/></code>
+<code><img height="32" src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></code>
+<code><img height="32" src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/></code>
+<code><img height="32" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/></code>
 
 ### 🛠️ Ferramentas
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/figma/figma.png" alt="Figma"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postman/postman.png" alt="Postman"/></code>
+<code><img height="32" src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></code>
+<code><img height="32" src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/></code>
 
 </div>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheus489&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheus489&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakNum=FFFFFF&currStreakLabel=6366F1&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus489&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Top Languages" />
-</div>
-
----
 
 ## 🏆 Projetos em Destaque
 
@@ -92,16 +84,6 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e experiências 
 
 </div>
 
----
-
-## 📈 Gráfico de Contribuições
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matheus489&theme=radical&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&area_color=6366F1" alt="Contribution Graph" />
-</div>
-
----
-
 ## 🎯 Metas para 2024
 
 - [ ] **Contribuir para 10 projetos open source**
@@ -109,8 +91,6 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e experiências 
 - [ ] **Obter certificação AWS Solutions Architect**
 - [ ] **Criar um blog técnico com 50+ artigos**
 - [ ] **Mentorear 5 desenvolvedores iniciantes**
-
----
 
 ## 📞 Vamos Conectar!
 
@@ -132,19 +112,9 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e experiências 
   </a>
 </div>
 
----
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=matheus489&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Obrigado+por+visitar+meu+perfil!+%F0%9F%98%8A;Vamos+criar+algo+incr%C3%ADvel+juntos!+%F0%9F%9A%80" alt="Thank you message" />
 </div>
-
----
 
 <div align="center">
   <sub>⭐ Se este perfil te ajudou, considere dar uma estrela! ⭐</sub>
