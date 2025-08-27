@@ -97,10 +97,7 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e experiências 
 ## 🐍 Cobrinha das Contribuições
 
 <div align="center">
-  <img src="https://github.com/matheus489/matheus489/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
-  
-  <!-- Alternativa caso a cobrinha não carregue -->
-  <img src="https://github.com/matheus489/matheus489/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+  <img src="https://raw.githubusercontent.com/matheus489/matheus489/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
 </div>
 
 ---
