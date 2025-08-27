@@ -18,10 +18,19 @@ jobs:
         with:
           github_user_name: matheus489
 
+      - name: Create output directory
+        run: mkdir -p output
+
+      - name: Move generated files
+        run: |
+          if [ -f "github-contribution-grid-snake-dark.svg" ]; then
+            mv github-contribution-grid-snake-dark.svg output/
+          fi
+
       - name: Deploy to output branch
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add dist/
+          git add output/
           git commit -m "Update snake" || exit 0
           git push origin HEAD:output --force
